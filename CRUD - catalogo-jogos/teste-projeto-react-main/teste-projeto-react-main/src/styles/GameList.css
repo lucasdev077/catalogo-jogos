@@ -1,0 +1,59 @@
+/* Estilos para os cards de jogos */
+
+body {
+  min-height: 400px;
+ 
+  background: var(--bg-color, #fff);
+  color: var(--text-color, #222);
+  transition: background 0.3s, color 0.3s;
+  
+}
+
+.card {
+  width: 100%;
+  min-height: 350px;  
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px; 
+  background: var(--card-bg, #fff);
+  color: var(--text-color, #222);
+  transition: background 0.3s, color 0.3s;
+}
+.card:hover{ 
+  transform: scale(1.05);
+  transition: .6s;
+}
+
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+  height: 200px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+  flex: 1;  
+  padding: 15px;
+}
+
+@media (max-width: 768px) {
+  .card {
+    margin: 10px;
+  }
+} 
+.btn-primary {
+  background-color: var(--primary-btn, #007bff);
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: var(--btn-text, #fff);
+  transition: background 0.3s, color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-btn-hover, #0056b3);
+}
+  

@@ -1,0 +1,21 @@
+:root {
+    --bg-color: #fff;
+    --text-color: #222;
+    --header-bg: #007bff;
+    --footer-bg: #222;
+    --footer-text: #fff;
+  }
+  
+  body.dark-mode {
+    --bg-color: #181818;
+    --text-color: #f5f5f5;
+    --header-bg: #222;
+    --footer-bg: #111;
+    --footer-text: #bbb;
+  }
+  
+  body {
+    background: var(--bg-color);
+    color: var(--text-color);
+    transition: background 0.3s, color 0.3s;
+  }

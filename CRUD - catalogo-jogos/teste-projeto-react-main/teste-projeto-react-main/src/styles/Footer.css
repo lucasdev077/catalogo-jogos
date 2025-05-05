@@ -1,0 +1,8 @@
+footer {
+  background-color: var(--footer-bg, #343a40);
+  color: var(--footer-text, #fff);
+  padding: 15px 0;
+  text-align: center;
+  margin-top: auto;  
+  transition: background 0.3s, color 0.3s;
+}
