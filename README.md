@@ -36,7 +36,7 @@ npm run dev
 Abra o navegador e acesse (https://catalogo-games.netlify.app/)
 
 Estrutura de Pastas: 
-📁 public
+``📁 public
 📁 src
 │   ├── 📁 assets
 │   ├── 📁 components
@@ -58,7 +58,7 @@ Estrutura de Pastas:
 📄 package.json
 📄 README.md
 📄 vite.config.js
-
+``
 
 Uso 🎯
 Pesquisa: Use a barra de pesquisa para filtrar jogos por nome (filtro no lado do cliente). 🔍
