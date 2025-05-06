@@ -33,7 +33,7 @@ Inicie o servidor de desenvolvimento:
 npm run dev
 
 
-Abra o navegador e acesse http://localhost:5173 
+Abra o navegador e acesse (https://catalogo-games.netlify.app/)
 
 Estrutura de Pastas: 
 📁 public
@@ -89,4 +89,6 @@ bootstrap: ^5.3.2 🎨
 vite: ^4.4.9 ⚡
 
 Feito por lucas e matheus serafim.
+
+![image](https://github.com/user-attachments/assets/bf9b58de-3f71-4a03-ae0e-b56653eb15b3)
 
