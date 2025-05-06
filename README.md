@@ -35,8 +35,8 @@ npm run dev
 
 Abra o navegador e acesse (https://catalogo-games.netlify.app/)
 
-Estrutura de Pastas: 
-``📁 public
+``Estrutura de Pastas: 
+📁 public
 📁 src
 │   ├── 📁 assets
 │   ├── 📁 components
