@@ -88,7 +88,7 @@ bootstrap: ^5.3.2 🎨
 @vitejs/plugin-react: ^4.0.4 ⚙️
 vite: ^4.4.9 ⚡
 
-Feito por lucas e matheus serafim.
+Feito por [lucas](https://github.com/lucasdev077) e [matheus](https://github.com/Matthz-max)
 
 ![image](https://github.com/user-attachments/assets/bf9b58de-3f71-4a03-ae0e-b56653eb15b3)
 
